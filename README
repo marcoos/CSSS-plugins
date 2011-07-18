@@ -23,16 +23,16 @@ C0nsole
 -------
 
 A brain-dead simple console, sort of useful when you need a nice output for stuff run from JSSnippets.
-
+    
     <textarea class="js-snippet">
     c0nsole.log("Oh hai again! Kthxbye!");
-    </textarea>
+    </textarea>`
 
 For c0nsole to work, you need to put:
 
     <link rel="stylesheet" src="plugins/c0nsole.css">
 
-in the <head> part of your slides, and:
+in the `<head>` part of your slides, and:
 
     <script src="plugins/c0nsole.js"></script>
 
