@@ -38,4 +38,14 @@ in the &lt;head&gt; part of your slides, and:
 
 at the bottom of your slides.
 
+DEMO
+----
+
+For a demo of both of these plugins, check out my [ECMAScript 5 talk slides](http://l10n.mozilla.org/~marcoos/slides/2011/devtank-krakow/).
+
+LICENSE
+-------
+
+See license.txt for details.
+
 
