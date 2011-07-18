@@ -32,7 +32,7 @@ For c0nsole to work, you need to put:
 
     <link rel="stylesheet" src="plugins/c0nsole.css">
 
-in the `<head>` part of your slides, and:
+in the &lt;head&gt; part of your slides, and:
 
     <script src="plugins/c0nsole.js"></script>
 
